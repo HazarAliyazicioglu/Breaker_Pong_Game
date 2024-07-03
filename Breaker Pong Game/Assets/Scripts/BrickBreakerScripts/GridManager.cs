@@ -11,7 +11,7 @@ namespace BrickBreakerScripts
     
         public List<GameObject> grids;
         public static float childCount;
-        public static int gridNumber = 2;
+        public static int gridNumber = 0;
     
         // Start is called before the first frame update
         public void Start()
